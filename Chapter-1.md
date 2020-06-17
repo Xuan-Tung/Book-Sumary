@@ -5,6 +5,7 @@
 * RHEL 7 là một bản phân phối của Linux nhưng nó không tải được miễn phí, bạn có thể tải bản có phí của nó nhưng chỉ được sử dụng giới hạn trong 30 ngày
 
 * RHEL 7 bản trả phí bạn sẽ nhận được một số những hỗ trợ dưới đây
+
   - Repositories độc quyền của redhat để có thể cài đặt được các phần mềm
   - Những bản update và patch đã được hãng kiểm thử cẩn thận
   - Những hỗ trợ  kỹ thuật từ kỹ sư cua hãng tuỳ vào loại subcribtion của cty bạn
@@ -40,6 +41,3 @@
 *Bước 6: Hoàn tất cài đặt và reboot lại để hoàn thành việc vài đặt 
 
 
-As Kanye West said:
-
-> We're living the future so the present is our past.
