@@ -16,7 +16,7 @@
 
 * một số những phiên bản miễn phí khác của RHEL là Scientific Linux, Fedora (bản này được redhat dùng làm bản cho cộng đồng dev nên có khá nhiều hỗ trợ từ redhat)
 
-* Redhat có khá nhiều các phiên bản được điều chỉnh (Red Hat Enterprise Linux Server for High-Performance Computing, Red Hat Enterprise Linux Server for IBM Power.) và đồng thời nó cũng có các add-in bổ xung thêm các tính năng vốn không có sẵn khi cài đặt cho redhat (High Availability, Resilient Storage, Smart management, Extended support)
+* Redhat có khá nhiều các phiên bản được điều chỉnh (Red Hat Enterprise Linux Server for High-Performance Computing, Red Hat Enterprise Linux Server for IBM Power...) và đồng thời nó cũng có các add-in bổ xung thêm các tính năng vốn không có sẵn khi cài đặt cho redhat (High Availability, Resilient Storage, Smart management, Extended support)
 
 ## Cài Đặt RHEL 7
 
