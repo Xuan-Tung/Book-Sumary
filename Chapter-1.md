@@ -39,3 +39,8 @@
 
 *Bước 6: Hoàn tất cài đặt và reboot lại để hoàn thành việc vài đặt 
 
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
