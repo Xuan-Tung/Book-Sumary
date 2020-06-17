@@ -28,9 +28,14 @@
 ## Các bước cài đặt RHEL 7
 
 *Bước 1: Cho đĩa vào máy chủ
+
 *Bước 2: Chọn ngôn ngữ, date, time zone ,phiên bản cần cài của redhat ...
+
 *Bước 3: Chia phân vùng ổ cứng (boot. swap,có dùng lvm không,...)
+
 *Bước 4: Đặt password
+
 *Bước 5: Cấu hình mạng
+
 *Bước 6: Hoàn tất cài đặt và reboot lại để hoàn thành việc vài đặt 
 
