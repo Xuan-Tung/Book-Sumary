@@ -2,7 +2,7 @@
 
 ## Các kỹ năng Bash Shell cơ bản
 
-- Linux Shell cung cấp môi trường để thực thi các câu lệnh một cách chính xác 
+1. Linux Shell cung cấp môi trường để thực thi các câu lệnh một cách chính xác 
 
 
 
