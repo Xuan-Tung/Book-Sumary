@@ -66,3 +66,4 @@ Môi trường Shell được tạo ra để đảm bảo mọi thứ hoạt đ�
   
   - Sử dụng --help: dùng sau câu lệnh để biết hướng dẫn sử dụng của câu lệnh đó nhanh nhất có thể 
   - Sử dụng man: cú pháp là **man command** để thể hiện cú pháp dòng lệnh, các tham số
+  - Sử dụng info
